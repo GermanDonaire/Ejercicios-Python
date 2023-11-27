@@ -1,2 +1,4 @@
-# Ejercicios-Python
-Ejercicios resueltos de Python como practica diaria
+# Ejercicios Python
+
+Ejercicios de python resueltos, de forma diaria
+
